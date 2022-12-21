@@ -1,2 +1,2 @@
-# 2020A1R018_COM-512_COMPUTER_NETWORKS
-Computer Networks
+# Cisco_Packet_Tracer
+Contains all the .pkt files that were built during my 5th semester in the Computer networking classes 
